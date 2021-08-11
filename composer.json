@@ -3,8 +3,8 @@
     "bin-dir": "bin/"
   },
   "require": {
-    "drupal/drupal-extension": "^4.1",
     "emuse/behat-html-formatter": "^0.2",
+    "guzzlehttp/guzzle": "^7.0",
     "bex/behat-screenshot": "^2.1"
   }
 }

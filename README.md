@@ -1,14 +1,12 @@
-# Behat Docker Image
+# Utile BDD  Docker Image forked from Docksal project  
 
-A self-contained Docker image to run Behat with no external dependencies.
-
-This image is part of the [Docksal](http://docksal.io) project.
+A self-contained Docker image to run Behat with no external dependencies to validate the behaviour of utile.space.
 
 Features:
 
 - PHP7, Composer 2
 - Behat 3.8.x
-- DrupalExtension 4.1.x
+- Guzzle 7.x
 - 
 
 ## Usage
