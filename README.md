@@ -15,7 +15,7 @@ Use this image as if you were using a binary.
 Working directory is expected to be mounted at `/src` in the container.
 
 ```
-$ docker run --rm -v $(pwd):/src docksal/behat --version
+$ docker run --rm -v C:\Users\Sonny\utile.space\utile-compose\utile-bdd:/src behat --colors  features/dns.feature
 behat 3.8.1
 ```
 
